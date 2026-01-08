@@ -15,8 +15,9 @@ This project presents an interactive Power BI dashboard that analyzes flight far
 - **Passenger Analysis:** Passenger distribution by origin, channel, and preferences  
 - **Booking & Trip Analysis:** Booking completion and trip-type behavior  
 - **Time & Duration Analysis:** Travel timing patterns and flight duration trends
--[flight_fare_analysis-1.pdf](https://github.com/user-attachments/files/24498656/flight_fare_analysis-1.pdf)
--  
+
+[flight_fare_analysis-1.pdf](https://github.com/user-attachments/files/24498656/flight_fare_analysis-1.pdf)
+ 
 ## 🔍 Key Insights
 - Round-trip bookings dominate overall passenger volume  
 - Monday records the highest passenger traffic  
